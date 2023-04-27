@@ -1,4 +1,3 @@
-# Project Overview
 
 Hey Ariel, this notebook is the 3rd step in our pipeline.
 
