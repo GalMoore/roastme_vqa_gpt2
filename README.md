@@ -8,4 +8,4 @@ This notebook is the 3rd step in our pipeline.
     - Loads the fine-tuned GPT-2-XL model and feeds it the image description together with some text created by the user (i.e., "roast me, you a%$holes!").
     - Generates 8 new roasts!
 
-This project demonstrates a complete pipeline for generating humorous and personalized roasts based on image and text inputs. (chatgpt added this line itself)
+This project demonstrates a complete pipeline for generating humorous and personalized roasts based on image and text inputs. (chatgpt added this line itself- I only asked for nice github formatting!)
