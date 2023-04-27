@@ -1,5 +1,5 @@
 
-Hey Ariel, this notebook is the 3rd step in our pipeline.
+This notebook is the 3rd step in our pipeline.
 
 1. The **first notebook** extracts image descriptions from images using Visual Question Answering (VQA).
 2. The **second notebook** takes those descriptions together with the respective post titles and roasts, and fine-tunes GPT-2-XL, a model with 1.5b parameters.
